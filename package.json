@@ -22,7 +22,7 @@
     "@material-ui/core": "^5.0.0-alpha.33",
     "@material-ui/lab": "^5.0.0-alpha.33",
     "@papercups-io/chat-widget": "^1.1.12",
-    "@tiptap/extension-link": "^2.0.0-beta.15",
+    "@tiptap/extension-link": "^2.10.4",
     "@tiptap/extension-placeholder": "^2.0.0-beta.15",
     "@tiptap/extension-text-align": "^2.0.0-beta.15",
     "@tiptap/extension-typography": "^2.0.0-beta.10",
